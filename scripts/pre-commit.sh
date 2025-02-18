@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "🔍 Vérification du code avec le linter..."
 
-# Exécute le linter (exemple avec ESLint pour du JS)
+# Exécute le linter
 npm run lint 
 
 if [ $? -ne 0 ]; then

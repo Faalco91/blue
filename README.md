@@ -4,8 +4,8 @@
 Ce projet a pour objectif de démontrer notre maîtrise des bonnes pratiques Git à travers une soutenance technique. Nous avons appliqué les principes du Git Flow, utilisé des outils d'intégration continue et mis en place un environnement collaboratif structuré.
 
 ## Membres de l'équipe
-- **Nom 1**  AMARIR Ouail
-- **Nom 2** Adham Elkhadar
+- AMARIR Ouail
+- Adham Elkhadar
 
 ## Organisation du projet
 - **15 issues** créées pour structurer le travail.
